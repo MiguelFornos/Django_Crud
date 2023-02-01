@@ -1,0 +1,9 @@
+asgiref==3.6.0
+Brotli==1.0.9
+dj-database-url==1.2.0
+Django==3.2.16
+psycopg2-binary==2.9.5
+pytz==2022.7
+sqlparse==0.4.3
+typing_extensions==4.4.0
+whitenoise==6.3.0
